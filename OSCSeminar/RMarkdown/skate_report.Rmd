@@ -1,0 +1,46 @@
+---
+title: ''
+author: ''
+date: ''
+output: html_document
+---
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+setwd("C:/Users/Danielle/Desktop")
+skates<-read.delim("demonstration_data.txt")
+library(dplyr)
+library(ggplot2)
+library(lubridate)
+library("htmlTable")
+
+skates$date<-dmy_hms(paste(skates$day, skates$month, skates$year,
+                           skates$hour, skates$minute, 0, sep="-"))
+skates<-skates[!skates$comment=="error",]
+
+table1<-skates%>%
+  filter(tag_applied=="Y")%>%
+  group_by(year)%>%
+  summarise(Year=unique(year),
+            Abundance=length(tag_id),
+            Tides=n_distinct(date))%>%
+  select(Year, Tides, Abundance)%>%
+  data.frame()
+
+figure1<-ggplot(skates[skates$width_est=="N",], aes(x=tl_cm, y=width_cm))+
+  geom_point()+theme_bw(11)+xlab("Total Length (cm)")+ylab("Width (cm)")
+
+model1<-lm(width_cm~tl_cm, data=skates[skates$width_est=="N",])
+```
+**Results**
+
+A total of `r nrow(skates[skates$tag_applied=="Y",])` Winter and Little skates were captured, measured, and tagged as bycatch at a commercial herring weir in Bramber, Nova Scotia, during `r length(unique(skates$date))` low tides between `r min(skates$year)` and `r max(skates$year)` (Table 1). The average total length of skates was `r round(mean(skates$tl_cm, na.rm=TRUE),1)` cm. A linear relationship was found between the width and total length of skates (Figure 1).
+
+**Table 1.** Summary statistics of sampling effort and skate abundance (`r min(skates$year)` - `r max(skates$year)`).
+
+`r htmlTable(table1, rnames=FALSE, col.rgroup = c("none", "#F7F7F7"))`
+
+**Figure 1.** Total length (cm) and width (cm) of skates, fit with a linear model (y = `r round(coef(model1)[1],2)` x + `r round(coef(model1)[2])`, r^2^ = `r round(summary(model1)$r.squared,2)`).
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE, fig.height=4, fig.width=6}
+figure1+stat_smooth(method='lm')
+```

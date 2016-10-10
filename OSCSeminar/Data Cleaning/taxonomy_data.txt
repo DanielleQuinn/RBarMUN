@@ -1,0 +1,11 @@
+site	fish_id	length_mm
+A	Alosa sapidissima	587
+A	synodus poeyi	92
+A	Apeltes spp.	54
+A	Rajiformes	651
+B	rajella	530
+B	Squalus acanthias	4365
+B	unidentified fish	32
+C	unknown Gadidae	239
+C	Lycodes esmarkii	460
+C	Bathyraja spinicauda	1342

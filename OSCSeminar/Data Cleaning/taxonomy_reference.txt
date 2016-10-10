@@ -1,0 +1,139 @@
+order	family	genus	species	common	max_tl_mm
+Acipenseriformes	Acipenseridae	Acipenser	oxyrhinchus	Atlantic Sturgeon	4030
+Aulopiformes	Alepisauridae	Alepisaurus	brevirostris	Short Snouted Lancetfish	960
+Aulopiformes	Alepisauridae	Alepisaurus	ferox	Long Snouted Lancetfish	2150
+Clupeiformes	Clupeidae	Alosa	sapidissima	American Shad	760
+Rajiformes	Rajidae	Amblyraja	hyperborea	Arctic Skate	1060
+Rajiformes	Rajidae	Amblyraja	jenseni	Shorttail Skate	743
+Rajiformes	Rajidae	Amblyraja	radiata	Starry Ray	1050
+Perciformes	Ammodytidae	Ammodytes	americanus	American Sand Lance	235
+Perciformes	Ammodytidae	Ammodytes	dubius	Northern Sand Lance	250
+Perciformes	Anarhichadidae	Anarhichas	denticulatus	Northern Wolffish	1800
+Perciformes	Anarhichadidae	Anarhichas	lupus	Atlantic Wolffish	1500
+Perciformes	Anarhichadidae	Anarhichas	minor	Spotted Wolffish	1800
+Perciformes	Stichaeidae	Anisarchus	medius	Stout Eelblenny	300
+Beryciformes	Anoplogastridae	Anoplogaster	cornuta	Common Fangtooth	180
+Aulopiformes	Anotoperidae	Anotopterus	pharao	Daggertooth	960
+Gasterosteiformes	Gasterosteidae	Apeltes	quadracus	Fourspine Stickleback	64
+Carcharhiniformes	Scyliorhinidae	Apristurus	profundorum	Deep-Water Catshark	542
+Gadiformes	Gadidae	Arctogadus	glacialis	Arctic Cod	325
+Osmeriformes	Argentinidae	Argentina	striata	Striated Argentine	240
+Scorpaeniformes	Cottidae	Artediellus	uncinatus	Arctic Hookear Sculpin	100
+Scorpaeniformes	Agonidae	Aspidophoroides	monopterygius	Alligatorfish	220
+Scorpaeniformes	Agonidae	Aspidophoroides	olrikii	Arctic Alligatorfish	86
+Osmeriformes	Bathylagidae	Bathylagus	euryops	Goiter Blacksmelt	130
+Rajiformes	Arhynchobatidae	Bathyraja	spinicauda	Spinytail Skate	1700
+Gadiformes	Gadidae	Boreogadus	saida	Polar Cod	400
+Clupeiformes	Clupeidae	Brevoortia	tyrannus	Atlantic Menhaden	500
+Gadiformes	Lotidae	Brosme	brosme	Tusk	1200
+Scorpaeniformes	Liparidae	Careproctus	reinhardti	Sea Tadpole	300
+Perciformes	Caristiidae	Caristius	fasciatus	Greenland Manefish	300
+Squaliformes	Etmopteridae	Centroscyllium	fabricii	Black Dogfish	1070
+Squaliformes	Somniosidae	Centroscymnus	coelolepis	Portuguese Dogfish	1200
+Lamniformes	Cetorhinidae	Cetorhinus	maximus	Basking Shark	9000
+Gadiformes	Macrouridae	Coelorhinchus	caelorhincus	Hollowsnout Grenadier	480
+Gadiformes	Macrouridae	Coryphaenoides	rupestris	Roundnose Grenadier	1100
+Scorpaeniformes	Psychrolutidae	Cottunculus	thomsonii	Pallid Sculpin	430
+Perciformes	Cryptacanthodidae	Cryptacanthodes	maculatus	Wrymouth	970
+Lophiiformes	Ceratiidae	Cryptopsaras	couesii	Triplewart Seadevil	73
+Gobiesociformes	Gobiesocidae	Cyclopterus	lumpus	Lumpfish	610
+Stomiiformes	Gonostomatidae	Cyclothone	microdon	Veiled Anglemouth	76
+Lophiiformes	Ogcocephalidae	Dibranchus	atlanticus	Atlantic Batfish	394
+Rajiformes	Rajidae	Dipturus	laevis	Barndoor Skate	1520
+Beryciformes	Diretmidae	Diretmus	argenteus	Silver Spinyfin	276
+Gadiformes	Lotidae	Enchelyopus	cimbrius	Fourbeard Rockling	410
+Perciformes	Stichaeidae	Eumesogrammus	praecisus	Fourline Snakeblenny	220
+Saccopharyngiformes	Eurypharyngidae	Eurypharynx	pelecanoides	Pelican Eel	1000
+Gadiformes	Gadidae	Gadus	morhua	Atlantic Cod	2000
+Gadiformes	Gadidae	Gadus	ogac	Greenland Cod	770
+Gadiformes	Lotidae	Gaidropsarus	argentatus	Arctic Rockling	350
+Gadiformes	Lotidae	Gaidropsarus	ensis	Threadfin Rockling	400
+Gasterosteiformes	Gasterosteidae	Gasterosteus	aculeatus	Threespine Stickleback	110
+Gasterosteiformes	Gasterosteidae	Gasterosteus	wheatlandi	Blackspotted Stickleback	76
+Perciformes	Zoarcidae	Gymnelus	viridis	Fish Doctor	560
+Scorpaeniformes	Cottidae	Gymnocanthus	tricuspis	Arctic Staghorn Sculpin	300
+Gadiformes	Moridae	Halargyreus	johnsonii	Slender Codling	560
+Scorpaeniformes	Sebastidae	Helicolenus	dactylopterus	Blackbelly Rosefish	470
+Scorpaeniformes	Hemitripteridae	Hemitripterus	americanus	Sea Raven	640
+Pleuronectiformes	Pleuronectidae	Hippoglossoides	platessoides	American Plaice	826
+Pleuronectiformes	Pleuronectidae	Hippoglossus	hippoglossus	Atlantic Halibut	4700
+Perciformes	Howellidae	Howella	sherborni	Sherborns Pelagic Bass	80
+Chimaeriformes	Chimaeridae	Hydrolagus	affinis	Smalleyed Rabbitfish	1300
+Scorpaeniformes	Cottidae	Icelus	spatula	Spatulate Sculpin	210
+Lamniformes	Lamnidae	Isurus	oxyrinchus	Shortfin Mako	4000
+Lamniformes	Lamnidae	Lamna	nasus	Porbeagle	3500
+Gadiformes	Moridae	Lepidion	eques	North Atlantic Codling	440
+Scorpaeniformes	Agonidae	Leptagonus	decagonus	Atlantic Poacher	210
+Perciformes	Stichaeidae	Leptoclinus	maculatus	Daubed Shanny	200
+Rajiformes	Rajidae	Leucoraja	erinacea	Little Skate	540
+Rajiformes	Rajidae	Leucoraja	ocellata	Winter Skate	1100
+Pleuronectiformes	Pleuronectidae	Limanda	ferruginea	Yellowtail Flounder	640
+Scorpaeniformes	Liparidae	Liparis	coheni	Gulf Snailfish	118
+Scorpaeniformes	Liparidae	Liparis	gibbus	Variegated Snailfish	520
+Notacanthiformes	Notacanthidae	Lipogenys	gillii	NA	500
+Perciformes	Stichaeidae	Lumpenus	lampretaeformis	Snakeblenny	500
+Perciformes	Zoarcidae	Lycenchelys	verrillii	Wolf Eelpout	250
+Perciformes	Zoarcidae	Lycodes	esmarkii	Greater Eelpout	750
+Perciformes	Zoarcidae	Lycodes	lavalaei	Newfoundland Eelpout	560
+Perciformes	Zoarcidae	Lycodes	pallidus	Pale Eelpout	260
+Perciformes	Zoarcidae	Lycodes	polaris	Canadian Eelpout	250
+Perciformes	Zoarcidae	Lycodes	reticulatus	Arctic Eelpout	360
+Perciformes	Zoarcidae	Lycodes	terraenovae	NA	452
+Perciformes	Zoarcidae	Lycodes	vahlii	Vahls Eelpout	520
+Gadiformes	Macrouridae	Macrourus	berglax	Roughhead Grenadier	1100
+Gadiformes	Macrouridae	Malacocephalus	occidentalis	Western Softhead Grenadier	450
+Rajiformes	Rajidae	Malacoraja	senta	Smooth Skate	610
+Rajiformes	Rajidae	Malacoraja	spinacidermis	Soft Skate	700
+Stomiiformes	Stomiidae	Malacosteus	niger	Stoplight Loosejaw	256
+Osmeriformes	Osmeridae	Mallotus	villosus	Capelin	200
+Stomiiformes	Sternoptychidae	Maurolicus	muelleri	Silvery Lightfish	80
+Gadiformes	Gadidae	Melanogrammus	aeglefinus	Haddock	1120
+Perciformes	Zoarcidae	Melanostigma	atlanticum	Atlantic Soft Pout	150
+Gadiformes	Merlucciidae	Merluccius	albidus	Offshore Silver Hake	406
+Gadiformes	Merlucciidae	Merluccius	bilinearis	Silver Hake	760
+Gadiformes	Gadidae	Microgadus	tomcod	Atlantic Tomcod	381
+Gadiformes	Gadidae	Micromesistius	poutassou	Blue Whiting	500
+Gadiformes	Merlucciidae	Molva	byrkelange	European Hake	1400
+Scorpaeniformes	Cottidae	Myoxocephalus	aenaeus	Grubby	180
+Scorpaeniformes	Cottidae	Myoxocephalus	octodecemspinous	Longhorn Sculpin	460
+Scorpaeniformes	Cottidae	Myoxocephalus	quadricornis	Fourhorn Sculpin	600
+Scorpaeniformes	Cottidae	Myoxocephalus	scorpioides	Arctic Sculpin	220
+Scorpaeniformes	Cottidae	Myoxocephalus	scorpius	Shorthorn Sculpin	600
+Myxiniformes	Myxinidae	Myxine	glutinosa	Atlantic Hagfish	800
+Anguilliformes	Nemichthyidae	Nemichthys	scolopaceus	Slender Sniper Eel	1300
+Anguilliformes	Derichthyidae	Nessorhamphus	ingolfianus	Duckbill Oceanic Eel	598
+Gadiformes	Macrouridae	Nezumia	bairdii	Marlin Spike Grenadier	400
+Notacanthiformes	Notacanthidae	Notacanthus	chemnitzii	Snubnosed Spiny Eel	1200
+Osmeriformes	Osmeridae	Osmerus	mordax	Rainbow Smelt	356
+Scorpaeniformes	Liparidae	Paraliparis	copei	Blacksnout Seasnail	170
+Aulopiformes	Chlorophthalmidae	Parasudis	truculenta	Longnose Greeneye	250
+Perciformes	Stromateidae	Peprilus	triacanthus	Atlantic Butterfish	300
+Petromyzontiformes	Petromyzontidae	Petromyzon	marinus	Sea Lamprey	1200
+Gadiformes	Gadidae	Pollachius	virens	Saithe	1300
+Pleuronectiformes	Pleuronectidae	Pseudopleuronectes	americanus	Winter Flounder	640
+Rajiformes	Rajidae	Rajella	bathyphila	Deep Water Ray	900
+Rajiformes	Rajidae	Rajella	fyllae	Round Ray	600
+Rajiformes	Rajidae	Rajella	lintea	Sailray	1230
+Pleuronectiformes	Pleuronectidae	Reinhardtius	hippoglossoides	Greenland Halibut	800
+Chimaeriformes	Rhinochimaeridae	Rhinochimaera	atlantica	Straightnose Rabbitfish	1400
+Saccopharyngiformes	Saccopharyngidae	Saccopharynx	ampullaceus	Gulper Eel	1610
+Salmoniformes	Salmonidae	Salmo	salar	Atlantic Salmon	1500
+Beloniformes	Scomberesocidae	Scomberesox	saurus	Atlantic Saury	500
+Pleuronectiformes	Scophthalmidae	Scophthalmus	aquosus	Windowpane Flounder	457
+Scorpaeniformes	Sebastidae	Sebastes	mentella	Beaked Redfish	580
+Scorpaeniformes	Sebastidae	Sebastes	norvegicus	Golden Redfish	1000
+Anguilliformes	Serrivomeridae	Serrivomer	beanii	Stout Sawpalate	780
+Anguilliformes	Serrivomeridae	Serrivomer	lanceolatoides	Short Tooth Sawpalate	650
+Anguilliformes	Synaphobranchidae	Simenchelys	parasitica	Snubnosed Eel	610
+Squaliformes	Somniosidae	Somniosus	microcephalus	Greenland Shark	7300
+Squaliformes	Squalidae	Squalus	acanthias	Picked Dogfish	1600
+Perciformes	Stichaeidae	Stichaeus	punctatus	Arctic Shanny	220
+Anguilliformes	Synaphobranchidae	Synaphobranchus	kaupii	Kaups Arrowtooth Eel	1000
+Aulopiformes	Synodontidae	Synodus	poeyi	Offshore Lizardfish	250
+Gadiformes	Macrouridae	Trachyrhincus	murrayi	Roughnose Grenadier	370
+Scorpaeniformes	Cottidae	Triglops	murrayi	Moustache Sculpin	200
+Perciformes	Stichaeidae	Ulvaria	subbifurcata	Radiated Shanny	180
+Gadiformes	Phycidae	Urophycis	chuss	Red Hake	660
+Gadiformes	Phycidae	Urophycis	tenuis	White Hake	1330
+Osmeriformes	Alepocephalidae	Xenodermichthys	copei	Bluntnose Smooth Head	310
+Perciformes	Zoarcidae	Zoarces	americanus	Ocean Pout	1100
