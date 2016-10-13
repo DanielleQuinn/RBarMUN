@@ -6,9 +6,14 @@ library(miniUI)
 library(shiny)
 library(ggplot2)
 
+# ---- Create dummy data set ----
+mydata<-data.frame(x=rnorm(100, mean=10, sd=6),
+                   y=rnorm(100, mean=50, sd=20))
+
+# ---- Set Password ----
 requiredpassword<-"OSC123"
 
-# ---- FUNCTION: get_password() ----
+# ---- FUNCTION: accesspassword() ----
 accesspassword<-function()
 {
   ui<-miniPage(gadgetTitleBar("Please enter password"),
@@ -70,10 +75,6 @@ choose_points<-function(data, x, y)
     runGadget(ui, server)
   }
 }
-
-# ---- Create dummy data set ----
-mydata<-data.frame(x=rnorm(100, mean=10, sd=6),
-                   y=rnorm(100, mean=50, sd=20))
 
 # ---- Run choose_points() ----
 mydata$includepoints<-choose_points(mydata, x,y)

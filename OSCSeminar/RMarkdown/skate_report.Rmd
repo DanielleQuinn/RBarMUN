@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
-setwd("C:/Users/Danielle/Desktop")
+setwd("C:/Users/danie/OneDrive/DQ_Documents/R/MUN/OSC Seminar/RMarkdown")
 skates<-read.delim("demonstration_data.txt")
 library(dplyr)
 library(ggplot2)
@@ -15,7 +15,6 @@ library("htmlTable")
 
 skates$date<-dmy_hms(paste(skates$day, skates$month, skates$year,
                            skates$hour, skates$minute, 0, sep="-"))
-skates<-skates[!skates$comment=="error",]
 
 table1<-skates%>%
   filter(tag_applied=="Y")%>%
@@ -26,10 +25,10 @@ table1<-skates%>%
   select(Year, Tides, Abundance)%>%
   data.frame()
 
-figure1<-ggplot(skates[skates$width_est=="N",], aes(x=tl_cm, y=width_cm))+
+figure1<-ggplot(skates, aes(x=tl_cm, y=width_cm))+
   geom_point()+theme_bw(11)+xlab("Total Length (cm)")+ylab("Width (cm)")
 
-model1<-lm(width_cm~tl_cm, data=skates[skates$width_est=="N",])
+model1<-lm(width_cm~tl_cm, data=skates)
 ```
 **Results**
 

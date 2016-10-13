@@ -80,4 +80,4 @@ for(i in which(newdata$type=="gensp"))
 }
 
 View(data)
-newdata
+View(newdata)

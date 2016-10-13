@@ -1,5 +1,5 @@
 # ---- Set Working Directory ----
-setwd("C:/Users/danie/Desktop/MUN/OSC Seminar/Image Analysis/Video Frames")
+setwd("C:/Users/danie/OneDrive/DQ_Documents/R/MUN/OSC Seminar/Image Analysis/Video Frames")
 
 # ---- Load Packages ----
 library(EBImage)
@@ -39,3 +39,4 @@ x<-data.frame(frameA=2:length(list.files(pattern=".jpg")),
            frameB=1:(length(list.files(pattern=".jpg"))-1),
            results)
 
+View(x)
