@@ -10,4 +10,4 @@ Ocean Science Center, 3:30 - 4:30
 
 A general introduction to R and RStudio, including installation, vocabulary, core concepts, basic R skills, and best practices.
 
-Bitters, 4:00 - 6:00
+Bitters, 7:30 - 9:30
