@@ -1,11 +1,3 @@
-# ---- Description ----
-# This is part II of the code along
-# script for the September 14th R 
-# Workshop at University of Maine,
-# presented by Dr. Trevor Avery and
-# Danielle Quinn
-# Enjoy!
-
 # ---- Set Working Directory ----
 # The working directory is the location (folder)
 # that R is going to communicate with when
@@ -15,17 +7,15 @@
 getwd()
 
 # Hint: Use the tab key to easily navigate folders
-setwd("C:/Users/danie/Desktop/Maine")
+setwd("C:/Users/danie/Documents/GitHub/RBarMUN/15Nov2016")
 
 # ---- Load Packages ----
 library(lubridate)
 library(dplyr)
-library(ggplot2)
 
 # ---- Import Data ----
 # Single flat file saved as a .txt
 mydata<-read.delim("sampledata.txt")
-View(mydata)
 
 # ---- Data Frames: Basics ----
 View(mydata) # Spreadsheet of data frame in new tab
