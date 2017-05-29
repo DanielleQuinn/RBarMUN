@@ -26,6 +26,7 @@ Work together in an informal setting to solve problems, help others troubleshoot
 
 The Breezeway, 8:00 - 9:00
 
+> Do you have a suggestion for a future event? Would you like to host a tutorial, workshop, or demonstration? Let us know on our [facebook page](https://www.facebook.com/RBarMUN/)! 
 
 ## Past Events
 
