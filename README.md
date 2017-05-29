@@ -23,3 +23,8 @@ Bitters, 6:00 - 7:30
 An introduction to getting your research started in R Studio!
 
 Challenger Room, Ocean Sciences Center, 3:00 - 4:00
+
+###Intro Workshop
+
+31 May 2017, 6:00 - 8:00, University Center 6011
+7 June 2017, 6:00 - 8:00, University Center 3013
