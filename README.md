@@ -20,7 +20,7 @@ The Breezeway, 8:00 - 9:00
 
 A general introduction to spreadsheets and basic data wrangling skills including quality control, summarizing and visualizing data, and formatting dates.
 
-University Center 3013, 6:00 - 8:00
+University Center 3013 ('The Loft'), 6:00 - 8:00
 
 ### 7 June 2017 - R Co-Working Session
 
