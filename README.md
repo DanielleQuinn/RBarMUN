@@ -4,18 +4,6 @@
 
 ## Upcoming Events
 
-### 31 May 2017 - Introduction to R and RStudio (Part I)
-
-A general introduction to R and RStudio, including installation, vocabulary, core concepts, basic R skills, and best practices.
-
-University Center 6011, 6:00 - 8:00
-
-### 31 May 2017 - R Co-Working Session
-
-Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
-
-The Breezeway, 8:00 - 9:00
-
 ### 7 June 2017 - Introduction to R and RStudio (Part II)
 
 A general introduction to spreadsheets and basic data wrangling skills including quality control, summarizing and visualizing data, and formatting dates.
@@ -26,10 +14,21 @@ University Center 3013 ('The Loft'), 6:00 - 8:00
 
 Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
 
-The Breezeway, 8:00 - 9:00
-
+Bitters, 8:00 - 9:00
 
 ## Past Events
+
+### 31 May 2017 - Introduction to R and RStudio (Part I)
+
+A general introduction to R and RStudio, including installation, vocabulary, core concepts, basic R skills, and best practices.
+
+University Center 6011, 6:00 - 8:00
+
+### 31 May 2017 - R Co-Working Session
+
+Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
+
+Bitters, 8:00 - 9:00
 
 ### 15 November 2016 - Data Wrangling in R
 
