@@ -5,18 +5,18 @@
 
 # Prints your current working directory; no arguments needed
 
+
 # You will need to change this to be your own working directory:
- # Define your working directory
-  # Hint: Use the tab key to easily navigate folders
+setwd("C:/Users/danie/Desktop/RBarMUN") # Define your working directory
+# Hint: Use the tab key to easily navigate folders
 
 # ---- Load Packages ----
 
-
 # ---- Import Data ----
 
-  # creates an object (container) called mydata which contains your 
-  # flat file (spreadsheet) sampledata.txt as a data frame with
-  # rows and columns
+# creates an object (container) called mydata which contains your 
+# flat file (spreadsheet) sampledata.txt as a data frame with
+# rows and columns
 
 # ---- Data Frames: Basics ----
  # Spreadsheet of data frame in new tab
@@ -29,7 +29,7 @@
 # ---- Data Frames: Each Column is a Vector ----
 # Each column (variable) is denoted by $
  # Outputs the contents of the column called length
-              # in the object mydata (which is a data frame) as a vector
+# in the object mydata (which is a data frame) as a vector
 
 # Indexing works the same way as any other vector
  # Outputs the 5th element of the vector
@@ -47,7 +47,7 @@
  # Outputs the value of row 1, column 2
 
  # Outputs the values of rows 1 to 5
-                      # and columns 1, 2, 3, and 6
+# and columns 1, 2, 3, and 6
 
 # You can leave a dimension blank to select all
  # Outputs all rows and column 3
@@ -74,7 +74,7 @@
 # is formatted as "dd-mm-yyyy" from the year, month, and day columns
 # of mydata using the paste() function and place it in an object called myvec
 
-  # sep argument defines what character we want to use to separate each component
+# sep argument defines what character we want to use to separate each component
 # Step 2: Use this object as the argument for dmy() and place the resulting
 # vector in an object called mydates
 
@@ -84,10 +84,32 @@
 
 # ALTERNATIVELY, nest all of these steps into a single line of code!
 
-
 # ---- Exercise 3: Formatting Date Time ----
 # Use dmy_hms() to create a column in mydata called datetime
 # that contains both date and time information
+
+# ---- Summarizing Data ----
+# There are many simple ways to summarize your data
+# Each method has pros and cons; your use will change depending
+# on the situation
+
+# For simple frequencies, use table()
+
+# {dplyr} is a package that can be used for summarizing data in a flexible,
+# customizable, and intuitive way without worrying about indexing
+# or looping
+
+# Filter mydaya to only include data from June
+# Option 1: Indexing
+
+# Option 2: dplyr
+
+# Generate a table of mean length per month
+
+# ---- Exercise 4: Generating Tables with dplyr ----
+# Use dplyr to generate a table containing the mean weights of individuals
+# with a length greater than 10, by both sex and year, along with the standard
+# deviation around those means.
 
 # ---- Exercise Solutions ----
 # Exercise 1
@@ -110,3 +132,16 @@ adultdata<-mydata[mydata$length>10 & !is.na(mydata$length),] # Omits records wit
 # Use dmy_hms() to create a column in mydata called datetime
 # that contains both date and time information
 mydata$datetime<-dmy_hms(paste(mydata$day, mydata$month, mydata$year, mydata$hour, mydata$minute, mydata$second, sep="-"))
+
+# Exercise 4: Generating Tables with dplyr
+# Use dplyr to generate a table containing the mean weights of individuals
+# with a length greater than 10, by both sex and year, along with the standard
+# deviation around those means.
+table2<-mydata%>%
+  filter(length>10)%>%
+  group_by(year, sex)%>%
+  summarise(mweight=mean(weight, na.rm=TRUE),
+            sd=sd(weight, na.rm=TRUE))%>%
+  ungroup()%>%
+  data.frame()
+table2

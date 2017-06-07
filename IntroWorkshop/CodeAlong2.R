@@ -91,6 +91,38 @@ mydata$dates<-dmy(paste(mydata$day, mydata$month, mydata$year, sep="-"))
 # Use dmy_hms() to create a column in mydata called datetime
 # that contains both date and time information
 
+# ---- Summarizing Data ----
+# There are many simple ways to summarize your data
+# Each method has pros and cons; your use will change depending
+# on the situation
+
+# For simple frequencies, use table()
+table(mydata$year) # How many records do we have per year?
+table(mydata$year, mydata$sex) # How many records do we have for each sex, per year?
+
+# {dplyr} is a package that can be used for summarizing data in a flexible,
+# customizable, and intuitive way without worrying about indexing
+# or looping
+
+# Filter mydaya to only include data from June
+# Option 1: Indexing
+mydata[mydata$month==6,]
+# Option 2: dplyr
+mydata%>%filter(month==6)
+
+# Generate a table of mean length per month
+table1<-mydata%>%
+  group_by(month)%>%
+  summarise(mlength=mean(length, na.rm=TRUE))%>%
+  ungroup()%>%
+  data.frame()
+table1
+
+# ---- Exercise 4: Generating Tables with dplyr ----
+# Use dplyr to generate a table containing the mean weights of individuals
+# with a length greater than 10, by both sex and year, along with the standard
+# deviation around those means.
+
 # ---- Exercise Solutions ----
 # Exercise 1
 # Create an object called adultlength that contains all values
@@ -112,3 +144,16 @@ adultdata<-mydata[mydata$length>10 & !is.na(mydata$length),] # Omits records wit
 # Use dmy_hms() to create a column in mydata called datetime
 # that contains both date and time information
 mydata$datetime<-dmy_hms(paste(mydata$day, mydata$month, mydata$year, mydata$hour, mydata$minute, mydata$second, sep="-"))
+
+# Exercise 4: Generating Tables with dplyr
+# Use dplyr to generate a table containing the mean weights of individuals
+# with a length greater than 10, by both sex and year, along with the standard
+# deviation around those means.
+table2<-mydata%>%
+  filter(length>10)%>%
+  group_by(year, sex)%>%
+  summarise(mweight=mean(weight, na.rm=TRUE),
+            sd=sd(weight, na.rm=TRUE))%>%
+  ungroup()%>%
+  data.frame()
+table2
