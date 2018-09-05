@@ -4,6 +4,14 @@
 
 ## Upcoming Events
 
+After a long hiatus, R-Bar will be returning to Memorial University in **October 2018**! Stay tuned for details about upcoming tutorials, coworking sessions, and more! We'll be asking YOU to play a more active role this year - have an interesting piece of code? Know how to solve a common problem? We want you to share your knowledge! Reach out via our [facebook page](http://www.facebook.com/RBarMUN/) to learn more about how to get involved.
+
+Much love,
+
+Danielle & Emilie
+
+## Past Events
+
 ### 7 June 2017 - Introduction to R and RStudio (Part II)
 
 A general introduction to spreadsheets and basic data wrangling skills including quality control, summarizing and visualizing data, and formatting dates.
@@ -15,8 +23,6 @@ University Center 3013 ('The Loft'), 6:00 - 8:00
 Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
 
 Bitters, 8:00 - 9:00
-
-## Past Events
 
 ### 31 May 2017 - Introduction to R and RStudio (Part I)
 
