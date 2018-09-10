@@ -4,7 +4,7 @@
 
 ## Upcoming Events
 
-After a long hiatus, R-Bar will be returning to Memorial University in **October 2018**! Stay tuned for details about upcoming tutorials, coworking sessions, and more! We'll be asking YOU to play a more active role this year - have an interesting piece of code? Know how to solve a common problem? We want you to share your knowledge! Reach out via our [facebook page](http://www.facebook.com/RBarMUN/) to learn more about how to get involved.
+After a long hiatus, R-Bar will be returning to Memorial University in **September 2018**! Stay tuned for details about upcoming tutorials, coworking sessions, and more! We'll be asking YOU to play a more active role this year - have an interesting piece of code? Know how to solve a common problem? We want you to share your knowledge! Reach out via our [facebook page](http://www.facebook.com/RBarMUN/) to learn more about how to get involved.
 
 Much love,
 
