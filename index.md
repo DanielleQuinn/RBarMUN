@@ -1,14 +1,27 @@
 # R-Bar at Memorial University
 
-> Do you have a suggestion for a future event? Would you like to host a tutorial, workshop, or demonstration? Let us know on our [facebook page](https://www.facebook.com/RBarMUN/)! 
+> Do you have a suggestion for a future event? Would you like to host a tutorial, workshop, or demonstration? Are you willing to share a piece of code that you think might be useful to others, or a solution to a common problem? Let us know on our [facebook page](https://www.facebook.com/RBarMUN/)! Also follow us on Twitter [@RBarMUN](https://twitter.com/RBarMUN)!
 
 ## Upcoming Events
 
-After a long hiatus, R-Bar will be returning to Memorial University in **September 2018**! Stay tuned for details about upcoming tutorials, coworking sessions, and more! We'll be asking YOU to play a more active role this year - have an interesting piece of code? Know how to solve a common problem? We want you to share your knowledge! Reach out via our [facebook page](http://www.facebook.com/RBarMUN/) to learn more about how to get involved.
+### 24 September 2018 - Introduction to R and RStudio  
+The Breezeway, 5:30 - 6:30  
+A live-coding general introduction to R and RStudio, including installation, vocabulary, core concepts, basic R skills, and best practices.  
+*Objectives:*  
+- Navigate in RStudio  
+- Create a .R script  
+- Install and load packages  
+- Assign values to objects  
+- Use functions and supply arguments  
+- Describe data classes and object structures  
+- Include comments and sections in a .R script  
+*Target Audience:* Beginners (but all are welcome!)  
+*Prerequisites:* None (but please try to have R & RStudio installed)
 
-Much love,
-
-Danielle & Emilie
+### 24 September 2018 - Co-Working Session  
+The Breezeway, 6:30 - 7:30  
+Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.  
+*Target Audience:* Everyone!
 
 ## Past Events
 
