@@ -18,6 +18,8 @@ A live-coding general introduction to R and RStudio, including installation, voc
 *Target Audience:* Beginners (but all are welcome!)  
 *Prerequisites:* None (but please try to have R & RStudio installed)
 
+**Updated:** The data and cheat sheets for today can be found [here](https://github.com/DanielleQuinn/RBarMUN/upload/master/24Sept2018). All of the code we use tonight will be added later!
+
 ### 24 September 2018 - Co-Working Session  
 The Breezeway, 6:30 - 7:30  
 Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.  
