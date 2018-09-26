@@ -2,30 +2,21 @@
 
 > Do you have a suggestion for a future event? Would you like to host a tutorial, workshop, or demonstration? Are you willing to share a piece of code that you think might be useful to others, or a solution to a common problem? Let us know on our [facebook page](https://www.facebook.com/RBarMUN/)! Also follow us on Twitter [@RBarMUN](https://twitter.com/RBarMUN)!
 
+Thanks so much to everyone who came out on Monday! We had an all time attendance record, with almost 40 participants! We're excited to keep this momentum going, and will be updating this page and adding events for the rest of this semester. For anyone who couldn't make it on Monday, the code and cheat sheets can be found [here](https://github.com/DanielleQuinn/RBarMUN/tree/master/24Sept2018).
+
 ## Upcoming Events
+
+### 1 October 2018 - TBA
+
+## Past Events
 
 ### 24 September 2018 - Introduction to R and RStudio  
 The Breezeway, 5:30 - 6:30  
-A live-coding general introduction to R and RStudio, including installation, vocabulary, core concepts, basic R skills, and best practices.  
-*Objectives:*  
-- Navigate in RStudio  
-- Create a .R script  
-- Install and load packages  
-- Assign values to objects  
-- Use functions and supply arguments  
-- Describe data classes and object structures  
-- Include comments and sections in a .R script  
-*Target Audience:* Beginners (but all are welcome!)  
-*Prerequisites:* None (but please try to have R & RStudio installed)
-
-**Updated:** The data and cheat sheets for today can be found [here](https://github.com/DanielleQuinn/RBarMUN/tree/master/24Sept2018). All of the code we use tonight will be added later!
+A live-coding general introduction to R and RStudio, including installation, vocabulary, core concepts, basic R skills, and best practices. [*Tutorial Material*](https://github.com/DanielleQuinn/RBarMUN/tree/master/24Sept2018).
 
 ### 24 September 2018 - Co-Working Session  
 The Breezeway, 6:30 - 7:30  
-Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.  
-*Target Audience:* Everyone!
-
-## Past Events
+Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
 
 ### 7 June 2017 - Introduction to R and RStudio (Part II)
 
