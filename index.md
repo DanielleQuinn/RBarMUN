@@ -6,7 +6,22 @@ Thanks so much to everyone who came out on Monday! We had an all time attendance
 
 ## Upcoming Events
 
-### 1 October 2018 - TBA
+### 1 October 2018 - Dealing with Data in RStudio  
+*The Breezeway, 5:30 - 6:30*
+A live-coding introduction to working with data in RStudio, including a discussion of spreadsheet best practices, importing data, and an introduction to manipulating data using `{dplyr}`.  
+*Objectives:*
+- Learn best practices of spreadsheet design  
+- Organize and import data  
+- Explore and manipulate data frames  
+- Handle missing values  
+
+*Intended Audience:* Beginners and beyond!  
+
+**We will provide a dataset for you to use for the tutorial but you are also encouraged to bring your own for the coworking session!**
+
+### 1 October 2018 - Co-Working Session  
+*The Breezeway, 6:30 - 7:30*  
+Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
 
 ## Past Events
 
