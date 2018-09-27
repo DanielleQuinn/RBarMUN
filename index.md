@@ -7,8 +7,9 @@ Thanks so much to everyone who came out on Monday! We had an all time attendance
 ## Upcoming Events
 
 ### 1 October 2018 - Dealing with Data in RStudio  
-*The Breezeway, 5:30 - 6:30*
+*The Breezeway, 5:30 - 6:30*  
 A live-coding introduction to working with data in RStudio, including a discussion of spreadsheet best practices, importing data, and an introduction to manipulating data using `{dplyr}`.  
+
 *Objectives:*
 - Learn best practices of spreadsheet design  
 - Organize and import data  
