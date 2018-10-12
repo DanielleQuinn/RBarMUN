@@ -6,25 +6,34 @@ Thanks so much to everyone who came out on Monday! We had an all time attendance
 
 ## Upcoming Events
 
-### 1 October 2018 - Dealing with Data in RStudio  
+### 15 October 2018 - Introduction to {ggplot2} and {dplyr}  
 *The Breezeway, 5:30 - 6:30*  
-A live-coding introduction to working with data in RStudio, including a discussion of spreadsheet best practices, importing data, and an introduction to manipulating data using `{dplyr}`.  
+A live-coding introduction to data wrangling and visualization.  
 
-*Objectives:*
-- Learn best practices of spreadsheet design  
-- Organize and import data  
-- Explore and manipulate data frames  
-- Handle missing values  
+*Objectives:*  
+- Manipulate data frames in R using {dplyr}  
+- Extract subsets using `filter()`  
+- Generate customized summary statistics  
+- Create visualizations using {ggplot2}  
+- Create workflows with both {dplyr} and {ggplot2} functions  
 
-*Intended Audience:* Beginners and beyond!  
+*Target Audience:* Beginners to intermediate (but all are welcome!)  
 
-**We will provide a dataset for you to use for the tutorial but you are also encouraged to bring your own for the coworking session!**
+*Prerequisites:* Navigating in RStudio, general knowledge of objects and data classes in R
 
-### 1 October 2018 - Co-Working Session  
+### 15 October 2018 - Co-Working Session  
 *The Breezeway, 6:30 - 7:30*  
 Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
 
 ## Past Events
+
+### 1 October 2018 - Dealing with Data in RStudio  
+*The Breezeway, 5:30 - 6:30*  
+A live-coding introduction to working with data in RStudio, including a discussion of spreadsheet best practices, importing data, and an introduction to manipulating data using `{dplyr}`.  Tutorial material to be posted shortly.
+
+### 1 October 2018 - Co-Working Session  
+*The Breezeway, 6:30 - 7:30*  
+Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
 
 ### 24 September 2018 - Introduction to R and RStudio  
 *The Breezeway, 5:30 - 6:30*  
