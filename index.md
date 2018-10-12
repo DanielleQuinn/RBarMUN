@@ -2,8 +2,6 @@
 
 > Do you have a suggestion for a future event? Would you like to host a tutorial, workshop, or demonstration? Are you willing to share a piece of code that you think might be useful to others, or a solution to a common problem? Let us know on our [facebook page](https://www.facebook.com/RBarMUN/)! Also follow us on Twitter [@RBarMUN](https://twitter.com/RBarMUN)!
 
-Thanks so much to everyone who came out on Monday! We had an all time attendance record, with almost 40 participants! We're excited to keep this momentum going, and will be updating this page and adding events for the rest of this semester. For anyone who couldn't make it on Monday, the code and cheat sheets can be found [here](https://github.com/DanielleQuinn/RBarMUN/tree/master/24Sept2018).
-
 ## Upcoming Events
 
 ### 15 October 2018 - Introduction to {ggplot2} and {dplyr}  
