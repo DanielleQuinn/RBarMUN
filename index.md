@@ -4,26 +4,33 @@
 
 ## Upcoming Events
 
+
+
+## Past Events
+
+### 5 November 2018 - Biodiversity Analyses in R  
+*The Breezeway, 5:30 - 6:30*  
+A live-coding introduction to biodiversity analyses using {vegan}.  
+
+### 5 November 2018 - Co-Working Session  
+*The Breezeway, 6:30 - 7:30*  
+Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
+
+### 29 October 2018 - General Linear Models in R  
+*The Breezeway, 5:30 - 6:30*  
+A live-coding introduction to general linear models.  
+
+### 29 October 2018 - Co-Working Session  
+*The Breezeway, 6:30 - 7:30*  
+Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
+
 ### 15 October 2018 - Introduction to {ggplot2} and {dplyr}  
 *The Breezeway, 5:30 - 6:30*  
 A live-coding introduction to data wrangling and visualization.  
 
-*Objectives:*  
-- Manipulate data frames in R using {dplyr}  
-- Extract subsets using `filter()`  
-- Generate customized summary statistics  
-- Create visualizations using {ggplot2}  
-- Create workflows with both {dplyr} and {ggplot2} functions  
-
-*Target Audience:* Beginners to intermediate (but all are welcome!)  
-
-*Prerequisites:* Navigating in RStudio, general knowledge of objects and data classes in R
-
 ### 15 October 2018 - Co-Working Session  
 *The Breezeway, 6:30 - 7:30*  
 Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
-
-## Past Events
 
 ### 1 October 2018 - Dealing with Data in RStudio  
 *The Breezeway, 5:30 - 6:30*  
