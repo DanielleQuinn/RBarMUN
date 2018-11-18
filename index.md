@@ -125,7 +125,7 @@ Work together in an informal setting to solve problems, help others troubleshoot
 A general introduction to R and RStudio, including installation, vocabulary, core concepts, basic R skills, and best practices.  
 *Resources:* [presentation & code](https://github.com/DanielleQuinn/RBarMUN/tree/master/18Oct2016)
 
-### 13 October 2016 - 'Can you automate that?' (Ocean Science Center Seminar Series)
+### 'Can you automate that?' (Ocean Science Center Seminar Series)
 *October 13, 2016*  
 *Location:* Ocean Science Center, 3:30 - 4:30  
 
