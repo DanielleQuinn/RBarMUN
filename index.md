@@ -8,74 +8,126 @@
 
 ## Past Events
 
-### 5 November 2018 - Biodiversity Analyses in R  
-*The Breezeway, 5:30 - 6:30*  
-A live-coding introduction to biodiversity analyses using {vegan}.  
+### Biodiversity Analyses in R  
+*November 5, 2018*      
+*Location:* The Breezeway, 5:30 - 6:30  
 
-### 5 November 2018 - Co-Working Session  
-*The Breezeway, 6:30 - 7:30*  
+*Instructor:* Joany Marino  
+A live-coding introduction to biodiversity analyses using `vegan`.  
+*Resources:* [notebook](https://gitlab.com/JoMarino/rtutorials/blob/master/vegan_diversity.ipynb) & [code](https://github.com/DanielleQuinn/RBarMUN/tree/master/5Nov2018)
+
+### Co-Working Session  
+*November 5, 2018*  
+*Location:* The Breezeway, 6:30 - 7:30
+
 Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
 
-### 29 October 2018 - General Linear Models in R  
-*The Breezeway, 5:30 - 6:30*  
+### General Linear Models in R  
+*October 29, 2018*  
+*Location:* The Breezeway, 5:30 - 6:30  
+
+*Instructor:* Emilie Geissinger  
 A live-coding introduction to general linear models.  
 
-### 29 October 2018 - Co-Working Session  
-*The Breezeway, 6:30 - 7:30*  
+### Co-Working Session  
+October 29, 2018
+*Location:* The Breezeway, 6:30 - 7:30  
+
 Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
 
-### 15 October 2018 - Introduction to {ggplot2} and {dplyr}  
-*The Breezeway, 5:30 - 6:30*  
+### Introduction to {ggplot2} and {dplyr}  
+*October 15, 2018*
+*Location:* The Breezeway, 5:30 - 6:30  
+
+*Instructor:* Emilie Geissinger  
 A live-coding introduction to data wrangling and visualization.  
 
-### 15 October 2018 - Co-Working Session  
+### Co-Working Session  
+*October 15, 2018*  
 *The Breezeway, 6:30 - 7:30*  
+
 Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
 
-### 1 October 2018 - Dealing with Data in RStudio  
-*The Breezeway, 5:30 - 6:30*  
-A live-coding introduction to working with data in RStudio, including a discussion of spreadsheet best practices, importing data, and an introduction to manipulating data using `{dplyr}`.  Tutorial material to be posted shortly.
+### Dealing with Data in RStudio  
+*October 1, 2018*  
+*Location:* The Breezeway, 5:30 - 6:30  
 
-### 1 October 2018 - Co-Working Session  
-*The Breezeway, 6:30 - 7:30*  
+*Instructor:* Emilie Geissinger  
+A live-coding introduction to working with data in RStudio, including a discussion of spreadsheet best practices, importing data, and an introduction to manipulating data using `{dplyr}`.  
+*Resources:* [presentation, code, & data](https://github.com/DanielleQuinn/RBarMUN/tree/master/1Oct2018)
+
+### Co-Working Session  
+*October 1, 2018*  
+*Location:* The Breezeway, 6:30 - 7:30  
+
 Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
 
-### 24 September 2018 - Introduction to R and RStudio  
-*The Breezeway, 5:30 - 6:30*  
-A live-coding general introduction to R and RStudio, including installation, vocabulary, core concepts, basic R skills, and best practices. [*Tutorial Material*](https://github.com/DanielleQuinn/RBarMUN/tree/master/24Sept2018).
+### Introduction to R and RStudio  
+*September 24, 2018*  
+*Location:* The Breezeway, 5:30 - 6:30  
 
-### 24 September 2018 - Co-Working Session  
-*The Breezeway, 6:30 - 7:30*  
+*Instructor:* Danielle Quinn  
+A live-coding general introduction to R and RStudio, including installation, vocabulary, core concepts, basic R skills, and best practices.  
+*Resources:* [code & data](https://github.com/DanielleQuinn/RBarMUN/tree/master/24Sept2018).
+
+### Co-Working Session  
+*September 24, 2018*  
+*Location:* The Breezeway, 6:30 - 7:30  
+
 Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
 
-### 7 June 2017 - Introduction to R and RStudio (Part II)
-*University Center 3013 ('The Loft'), 6:00 - 8:00*  
+
+## 2017
+
+### Introduction to R and RStudio (Part II)  
+*June 7, 2017*  
+*Location:* University Center 3013 ('The Loft'), 6:00 - 8:00
+
 A general introduction to spreadsheets and basic data wrangling skills including quality control, summarizing and visualizing data, and formatting dates.
 
-### 7 June 2017 - R Co-Working Session
-*Bitters, 8:00 - 9:00*  
+### R Co-Working Session  
+*June 7, 2017*  
+*Location:* Bitters, 8:00 - 9:00  
+
 Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
 
-### 31 May 2017 - Introduction to R and RStudio (Part I)
-*University Center 6011, 6:00 - 8:00*  
+### Introduction to R and RStudio (Part I)
+*May 31, 2017*  
+*Location:* University Center 6011, 6:00 - 8:00
+
 A general introduction to R and RStudio, including installation, vocabulary, core concepts, basic R skills, and best practices.
 
-### 31 May 2017 - R Co-Working Session
-*Bitters, 8:00 - 9:00*  
+### R Co-Working Session
+*May 31, 2017*  
+*Location:* Bitters, 8:00 - 9:00  
+
 Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
 
-### 15 November 2016 - Data Wrangling in R
-*Challenger Room, Ocean Sciences Center, 3:00 - 4:00*  
-An introduction to getting your research started in R Studio!
+### Data Wrangling in R
+*November 15, 2017*
+*Location:* Challenger Room, Ocean Sciences Center, 3:00 - 4:00
 
-### 24 October 2016 - R Co-Working Session
-*Bitters, 6:00 - 7:30*  
-Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
+An introduction to getting your research started in R Studio!  
+*Resources:* [presentation, code, & data](https://github.com/DanielleQuinn/RBarMUN/tree/master/15Nov2016)
 
-### 18 October 2016 - Introduction to R and RStudio
-*Bitters, 7:30 - 9:30*  
-A general introduction to R and RStudio, including installation, vocabulary, core concepts, basic R skills, and best practices.
+## 2016
+
+### R Co-Working Session
+*October 24, 2016*  
+*Location:* Bitters, 6:00 - 7:30  
+
+Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.  
+
+### Introduction to R and RStudio
+*October 18, 2016*  
+*Location:* Bitters, 7:30 - 9:30  
+
+A general introduction to R and RStudio, including installation, vocabulary, core concepts, basic R skills, and best practices.  
+*Resources:* [presentation & code](https://github.com/DanielleQuinn/RBarMUN/tree/master/18Oct2016)
 
 ### 13 October 2016 - 'Can you automate that?' (Ocean Science Center Seminar Series)
-*Ocean Science Center, 3:30 - 4:30*  
-A brief overview of useful and not-so-useful applications of R and R-based extensions, including app development, data cleaning, image analysis, and games.
+*October 13, 2016*  
+*Location:* Ocean Science Center, 3:30 - 4:30  
+
+A brief overview of useful and not-so-useful applications of R and R-based extensions, including app development, data cleaning, image analysis, and games.  
+*Resources:* [presentation & code](https://github.com/DanielleQuinn/RBarMUN/tree/master/OSCSeminar)
