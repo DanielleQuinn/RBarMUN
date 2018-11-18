@@ -4,6 +4,27 @@
 
 ## Upcoming Events
 
+### Multivariate Analysis in R  
+*November 19, 2018*      
+*Location:* The Breezeway, 5:30 - 6:30  
+
+*Instructor:* Sander Boisen  
+A live-coding introduction to multivariate analysis!  
+- The "what", "when", and "why" of multivariate statistics.  
+- Choosing the right tool for the job (MDS, Manova, CCA, CanCor).  
+- Getting things in order: how do we interpret and utilize different ordinations?  
+- Taking things to the max with maximum entropy.  
+
+This tutorial will focus on interpretation of the analyses from R output. We will go into specifics of different methods, their strengths and weaknesses as well as which situations they work well in. The goal of the tutorial is that the attendees will be able to identify and apply a suitable multivariate approach for a given data set and interpret the results.
+
+*Target Audience:* Intermediate  
+*Prerequisites:* Navigation in RStudio, Basic R
+
+### Co-Working Session  
+*November 19, 2018*  
+*Location:* The Breezeway, 6:30 - 7:30
+
+Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
 
 
 ## Past Events
@@ -32,6 +53,12 @@ A live-coding introduction to general linear models.
 ### Co-Working Session  
 October 29, 2018
 *Location:* The Breezeway, 6:30 - 7:30  
+
+Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
+
+### Co-Working Session  
+*October 22, 2018*  
+*Location:* The Breezeway, 5:30 - 7:30
 
 Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
 
