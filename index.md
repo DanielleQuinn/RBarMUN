@@ -18,7 +18,8 @@ A live-coding introduction to multivariate analysis!
 This tutorial will focus on interpretation of the analyses from R output. We will go into specifics of different methods, their strengths and weaknesses as well as which situations they work well in. The goal of the tutorial is that the attendees will be able to identify and apply a suitable multivariate approach for a given data set and interpret the results.
 
 *Target Audience:* Intermediate  
-*Prerequisites:* Navigation in RStudio, Basic R
+*Prerequisites:* Navigation in RStudio, Basic R  
+*Resources:* [code & data}(https://github.com/DanielleQuinn/RBarMUN/tree/master/18Nov2018)
 
 ### Co-Working Session  
 *November 19, 2018*  
