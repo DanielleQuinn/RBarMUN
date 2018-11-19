@@ -96,7 +96,7 @@ Work together in an informal setting to solve problems, help others troubleshoot
 
 *Instructor:* Danielle Quinn  
 A live-coding general introduction to R and RStudio, including installation, vocabulary, core concepts, basic R skills, and best practices.  
-*Resources:* [code & data](https://github.com/DanielleQuinn/RBarMUN/tree/master/24Sept2018).
+*Resources:* [code & data](https://github.com/DanielleQuinn/RBarMUN/tree/master/24Sept2018)
 
 ### Co-Working Session  
 *September 24, 2018*  
