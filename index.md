@@ -19,7 +19,7 @@ This tutorial will focus on interpretation of the analyses from R output. We wil
 
 *Target Audience:* Intermediate  
 *Prerequisites:* Navigation in RStudio, Basic R  
-*Resources:* [code & data}(https://github.com/DanielleQuinn/RBarMUN/tree/master/18Nov2018)
+*Resources:* [code & data](https://github.com/DanielleQuinn/RBarMUN/tree/master/18Nov2018)
 
 ### Co-Working Session  
 *November 19, 2018*  
