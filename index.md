@@ -4,13 +4,15 @@
 
 ## Upcoming Events
 
+RBar has wrapped up for the semester! **Thank you** to everyone who came out, and **thank you** to all of you who volunteered your time and expertise to teach an amazing line up of tutorials and act as helpers behind the scenes! We're looking forward to contining in the New Year, with a great line up of speakers, tutorials, and co-working sessions, so keep an eye out for announcements on this site, Twitter, and Facebook!
+
+## Past Events
+
 ### Co-Working Session  
 *November 26, 2018*  
 *Location:* The Breezeway, 5:30 - 7:00
 
 Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
-
-## Past Events
 
 ### Multivariate Analysis in R  
 *November 19, 2018*      
