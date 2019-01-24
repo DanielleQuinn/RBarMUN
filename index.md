@@ -4,7 +4,18 @@
 
 ## Upcoming Events
 
-RBar has wrapped up for the semester! **Thank you** to everyone who came out, and **thank you** to all of you who volunteered your time and expertise to teach an amazing line up of tutorials and act as helpers behind the scenes! We're looking forward to contining in the New Year, with a great line up of speakers, tutorials, and co-working sessions, so keep an eye out for announcements on this site, Twitter, and Facebook!
+### Welcome Back!  
+*January 28, 2019*      
+*Location:* The Breezeway, 5:30 - 6:00  
+ 
+Come learn more about RBar and some of the upcoming events we are planning this year. We'll also be taking suggestions for future tutorials and events, and giving you the opportunity to get involved! All are welcome!  
+
+### Co-Working Session  
+*January 28, 2019*  
+*Location:* The Breezeway, 6:00 - 7:00  
+
+Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.  
+
 
 ## Past Events
 
