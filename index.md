@@ -10,6 +10,30 @@ RBar is a weekly scientific programming study group where we tackle R issues in 
 
 ## Upcoming Events
 
+### Doing More With {dplyr} and {tidyr}  
+*February 25, 2019*      
+*Location:* The Breezeway, 5:30 - 6:00  
+ 
+*Instructor:* Danielle Quinn  
+- A quick review of basic {dplyr} functions and creating workflows using pipes (%>%)  
+- Merging data sets using the join() family  
+- Converting data between wide and long format using gather() and spread()  
+- Demonstrations of other useful {dplyr} functions, like mutate(), pull(), glimpse(), complete(), fill() and arrange()  
+- Combining {dplyr} and {ggplot2} functions  
+- Bring your own data reshaping questions and we can help solve them using {dplyr} and {tidyr}!  
+
+*Target Audience:* Intermediate  
+*Prerequisites:* Navigation in RStudio, Basic R, Experience using {dplyr} recommended but not necessary  
+*Resources:* TBA
+
+### Co-Working Session  
+*February 25, 2019*  
+*Location:* The Breezeway, 6:00 - 7:00  
+
+Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.  
+
+## Past Events
+
 ### Welcome Back!  
 *January 28, 2019*      
 *Location:* The Breezeway, 5:30 - 6:00  
@@ -20,10 +44,10 @@ Come learn more about RBar and some of the upcoming events we are planning this 
 *January 28, 2019*  
 *Location:* The Breezeway, 6:00 - 7:00  
 
-Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.  
+Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
 
 
-## Past Events
+## 2018
 
 ### Co-Working Session  
 *November 26, 2018*  
