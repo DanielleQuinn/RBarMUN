@@ -10,7 +10,7 @@ RBar is a weekly scientific programming study group where we tackle R issues in 
 
 ## Upcoming Events
 
-### Interactive Web Apps with RShiny  
+### Special Event! Interactive Web Apps with RShiny  
 *Wednesday, March 27, 2019*  
 *Location:* Bitters, 7:30 - 9:30  
 
