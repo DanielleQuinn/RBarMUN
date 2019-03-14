@@ -10,29 +10,40 @@ RBar is a weekly scientific programming study group where we tackle R issues in 
 
 ## Upcoming Events
 
-### Doing More With {dplyr} and {tidyr}  POSTPONED DUE TO WEATHER
-*February 25, 2019* **New Date: March 4**  
-*Location:* The Breezeway, 5:30 - 6:00  
- 
-*Instructor:* Danielle Quinn  
-- A quick review of basic {dplyr} functions and creating workflows using pipes (%>%)  
-- Merging data sets using the join() family  
-- Converting data between wide and long format using gather() and spread()  
-- Demonstrations of other useful {dplyr} functions, like mutate(), pull(), glimpse(), complete(), fill() and arrange()  
-- Combining {dplyr} and {ggplot2} functions  
-- Bring your own data reshaping questions and we can help solve them using {dplyr} and {tidyr}!  
+### Interactive Web Apps with RShiny  
+*Wednesday, March 27, 2019*  
+*Location:* Bitters, 7:30 - 9:30  
 
-*Target Audience:* Intermediate  
-*Prerequisites:* Navigation in RStudio, Basic R, Experience using {dplyr} recommended but not necessary  
-*Resources:* TBA
+This week we're excited to be partnering with NDev - NL Software Developers to do a joint event! Danielle will be speaking about and demostrating RShiny, a package that provides users a powerful framework for building web applications without requiring knowledge of HTML, CSS, or JavaScript.  
 
-### Co-Working Session  POSTPONED DUE TO WEATHER
-*February 25, 2019* **New Date: March 4**  
+For more information, check out the [NDev Meetup Group](https://www.meetup.com/NDevMeetup/events/259727599/).
+
+## Past Events
+
+### Co-Working Session  
+*March 11, 2019*  
 *Location:* The Breezeway, 6:00 - 7:00  
 
 Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.  
 
-## Past Events
+### Doing More With {dplyr} and {tidyr}  
+*March 4, 2019*  
+*Location:* The Breezeway, 5:30 - 6:00  
+ 
+*Instructor:* Danielle Quinn  
+- A quick review of basic {dplyr} functions and creating workflows using pipes (%>%)  
+- Converting data between wide and long format using gather() and spread()  
+- Demonstrations of other useful {dplyr} functions, like mutate(), pull(), glimpse(), complete(), fill() and arrange()  
+
+*Target Audience:* Intermediate  
+*Prerequisites:* Navigation in RStudio, Basic R, Experience using {dplyr} recommended but not necessary  
+*Resources:* [code](https://github.com/DanielleQuinn/RBarMUN/tree/master/4March2019) & [data](https://github.com/DanielleQuinn/gapminder_data)
+
+### Co-Working Session  
+*March 4, 2019*  
+*Location:* The Breezeway, 6:00 - 7:00  
+
+Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.  
 
 ### Welcome Back!  
 *January 28, 2019*      
