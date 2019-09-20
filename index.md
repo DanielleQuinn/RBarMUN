@@ -10,6 +10,21 @@ RBar is a weekly scientific programming study group where we tackle R issues in 
 
 ## Upcoming Events
 
+### Welcome back: Fall 2019
+*Monday, September 23, 2019*
+*Location:* Breezeway, UC, 5:30 - 7:00
+
+We are back for Fall 2019! To kick off the start of a new year, we will be having a Introduction/Welcome meeting where we will:
+- Provide a brief introduction to our group's purpose
+- Share events for the year
+- Share oppurtunities to get more involved
+- Take suggestions for tutorials and events!
+
+After our 30 minute welcome, we will be having a co-working session where we weork together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques!
+
+*Target Audience: Everyone!*
+
+
 ### Special Event! Interactive Web Apps with RShiny  
 *Wednesday, March 27, 2019*  
 *Location:* Bitters, 7:30 - 9:30  
