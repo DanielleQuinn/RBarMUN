@@ -25,15 +25,14 @@ After our 30 minute welcome, we will be having a **co-working session** where we
 *Target Audience: Everyone!*
 
 
+## Past Events
+
 ### Special Event! Interactive Web Apps with RShiny  
 *Wednesday, March 27, 2019*  
 *Location:* Bitters, 7:30 - 9:30  
 
-This week we're excited to be partnering with NDev - NL Software Developers to do a joint event! Danielle will be speaking about and demostrating RShiny, a package that provides users a powerful framework for building web applications without requiring knowledge of HTML, CSS, or JavaScript.  
-
-For more information, check out the [NDev Meetup Group](https://www.meetup.com/NDevMeetup/events/259727599/).
-
-## Past Events
+*Target Audience:* Intermediate / Advanced  
+This week we're excited to be partnering with NDev - NL Software Developers to do a joint event! Danielle will be speaking about and demostrating RShiny, a package that provides users a powerful framework for building web applications without requiring knowledge of HTML, CSS, or JavaScript. For more information, check out the [NDev Meetup Group](https://www.meetup.com/NDevMeetup/events/259727599/).  
 
 ### Co-Working Session  
 *March 11, 2019*  
