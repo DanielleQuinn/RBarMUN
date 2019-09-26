@@ -10,6 +10,22 @@ RBar is a weekly scientific programming study group where we tackle R issues in 
 
 ## Upcoming Events
 
+### Introduction to R and RStudio  
+*September 30, 2019*  
+*Location:* The Breezeway, 5:30 - 6:30  
+
+*Instructor:* Joany Marino  
+A live-coding general introduction to R and RStudio, including installation, vocabulary, core concepts, basic R skills, and best practices.  
+*Resources:* [code & data](https://github.com/DanielleQuinn/RBarMUN/tree/master/30Sept2019/)
+
+### Co-Working Session  
+*September 30, 2019*  
+*Location:* The Breezeway, 6:30 - 7:30  
+
+Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
+
+## Past Events
+
 ### Welcome back: Fall 2019
 *Monday, September 23, 2019*
 *Location:* Breezeway, UC, 5:30 - 7:00
@@ -20,12 +36,9 @@ We are back for Fall 2019! To kick off the start of a new year, we will be havin
 - Share oppurtunities to get more involved
 - Take suggestions for tutorials and events!
 
-After our 30 minute welcome, we will be having a **co-working session** where we weork together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques!
+After our 30 minute welcome, we will be having a **co-working session** where we work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques!
 
 *Target Audience: Everyone!*
-
-
-## Past Events
 
 ### Special Event! Interactive Web Apps with RShiny  
 *Wednesday, March 27, 2019*  
