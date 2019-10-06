@@ -10,6 +10,14 @@ RBar is a weekly scientific programming study group where we tackle R issues in 
 
 ## Upcoming Events
 
+### Co-Working Session  
+*October 7, 2019*  
+*Location:* The Breezeway, 5:30 - 6:30  
+
+Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques. 
+
+## Past Events
+
 ### Introduction to R and RStudio  
 *September 30, 2019*  
 *Location:* The Breezeway, 5:30 - 6:30  
@@ -23,8 +31,6 @@ A live-coding general introduction to R and RStudio, including installation, voc
 *Location:* The Breezeway, 6:30 - 7:30  
 
 Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.
-
-## Past Events
 
 ### Welcome back: Fall 2019
 *Monday, September 23, 2019*
