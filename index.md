@@ -6,17 +6,32 @@ RBar is a weekly scientific programming study group where we tackle R issues in 
 - Outlets are limited at the location so please try to come with a charged computer.  
 - Please note the Breezeway is a student bar, so this is a 19+ event. Please bring a valid form of ID.  
 
-> Do you have a suggestion for a future event? Would you like to host a tutorial, workshop, or demonstration? Are you willing to share a piece of code that you think might be useful to others, or a solution to a common problem? Let us know on our [facebook page](https://www.facebook.com/RBarMUN/)! Also follow us on Twitter [@RBarMUN](https://twitter.com/RBarMUN)!
+> Do you have a suggestion for a future event? Would you like to host a tutorial, workshop, or demonstration? Are you willing to share a piece of code that you think might be useful to others, or a solution to a common problem? Let us know on our [facebook page](https://www.facebook.com/RBarMUN/)! Also follow us on Twitter [@RBarMUN](https://twitter.com/RBarMUN) and/or join our [Slack] (https://rbar-mun.slack.com/signup) group!
 
 ## Upcoming Events
+
+### Data Visualization with {ggplot2}
+*October 28, 2019*
+*Location:* The Breezeway, 5:30-6:30
+
+*Instructor:* Elena Salogni
+*Target Audience:* Beginner and Intermediate  
+*Prerequisites:* Navigation in RStudio, Basic R
+*Resources:*
+
+This live-coding tutorial will go through the basics of plotting with {ggplot2}. You will learn how to visualize your data in R and make publication-quality graphics!
+
+To get the most out of the tutorial, please come with a **charged** computer!
+
+Feel free to stick around after the tutorial for a co-working session with your R friends!
+
+## Past Events
 
 ### Co-Working Session  
 *October 7, 2019*  
 *Location:* The Breezeway, 5:30 - 6:30  
 
 Work together in an informal setting to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques. 
-
-## Past Events
 
 ### Introduction to R and RStudio  
 *September 30, 2019*  
