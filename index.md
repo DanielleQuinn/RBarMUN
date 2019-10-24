@@ -10,21 +10,21 @@ RBar is a weekly scientific programming study group where we tackle R issues in 
 
 ## Upcoming Events
 
-### Data Visualization with {ggplot2}
-*October 28, 2019* 
-*Location:* The Breezeway, 5:30-6:30 
+### Data Visualization with {ggplot2}  
+*October 28, 2019*  
+*Location:* The Breezeway, 5:30-6:30  
 
-*Instructor:* Elena Salogni 
+*Instructor:* Elena Salogni  
 *Target Audience:* Beginner and Intermediate  
-*Prerequisites:* Navigation in RStudio, Basic R 
+*Prerequisites:* Navigation in RStudio, Basic R  
 *Resources:* 
 
-This live-coding tutorial will go through the basics of plotting with {ggplot2}. You will learn how to visualize your data in R and make publication-quality graphics! 
+This live-coding tutorial will go through the basics of plotting with {ggplot2}. You will learn how to visualize your data in R and make publication-quality graphics!  
 
-To get the most out of the tutorial, please come with a **charged** computer! 
+To get the most out of the tutorial, please come with a **charged** computer!  
 
-Feel free to stick around after the tutorial for a co-working session with your R friends! 
-
+Feel free to stick around after the tutorial for a co-working session with your R friends!  
+ 
 ## Past Events
 
 ### Co-Working Session  
