@@ -10,6 +10,23 @@ RBar is a weekly scientific programming study group where we tackle R issues in 
 
 ## Upcoming Events
 
+**Introduction to Data Wrangling & Pipelines with {dplyr}**  
+*November 4, 2019*  
+*Location:* The Breezeway, 5:30 - 6:00  
+*Instructor:* Danielle Quinn  
+*Target Audience:* Beginner and Intermediate  
+*Suggested Prerequisites:* Basic R / RStudio Recommended  
+
+
+This week at RBar we'll be talking about how to use {dplyr} to quickly subset and summarise data using an easy-to-read pipeline approach.
+If you need to answer questions like "What was the average value recorded in each location?", "What if we omit specific records?", or "How does this change across years?", then {dplyr} is a tool you need to learn!  
+
+To get the most of the tutorial, please come with a charged computer.  
+
+Stick around after the tutorial for a co-working session with your R friends until 7:30 pm!
+ 
+## Past Events
+
 ### Data Visualization with {ggplot2}  
 *October 28, 2019*  
 *Location:* The Breezeway, 5:30-6:30  
@@ -20,12 +37,6 @@ RBar is a weekly scientific programming study group where we tackle R issues in 
 *Resources:* 
 
 This live-coding tutorial will go through the basics of plotting with {ggplot2}. You will learn how to visualize your data in R and make publication-quality graphics!  
-
-To get the most out of the tutorial, please come with a **charged** computer!  
-
-Feel free to stick around after the tutorial for a co-working session with your R friends!  
- 
-## Past Events
 
 ### Co-Working Session  
 *October 7, 2019*  
