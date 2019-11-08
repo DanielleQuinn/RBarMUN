@@ -9,6 +9,10 @@ RBar is a weekly scientific programming study group where we tackle R issues in 
 > Do you have a suggestion for a future event? Would you like to host a tutorial, workshop, or demonstration? Are you willing to share a piece of code that you think might be useful to others, or a solution to a common problem? Let us know on our [facebook page](https://www.facebook.com/RBarMUN/)! Also follow us on Twitter [@RBarMUN](https://twitter.com/RBarMUN) and/or join our [Slack](https://rbar-mun.slack.com/signup) group!
 
 ## Upcoming Events
+**Notice:** We will not be meeting this coming Monday (November 11) in observance of Remembrance Day. Stay tuned for our upcoming session on Monday, November 18.
+
+ 
+## Past Events  
 
 **Introduction to Data Wrangling & Pipelines with {dplyr}**  
 *November 4, 2019*  
@@ -17,16 +21,12 @@ RBar is a weekly scientific programming study group where we tackle R issues in 
 *Target Audience:* Beginner and Intermediate  
 *Suggested Prerequisites:* Basic R / RStudio Recommended  
 
-
-This week at RBar we'll be talking about how to use {dplyr} to quickly subset and summarise data using an easy-to-read pipeline approach.
+We'll be talking about how to use {dplyr} to quickly subset and summarise data using an easy-to-read pipeline approach.
 If you need to answer questions like "What was the average value recorded in each location?", "What if we omit specific records?", or "How does this change across years?", then {dplyr} is a tool you need to learn!  
 
 To get the most of the tutorial, please come with a charged computer.  
 
 Stick around after the tutorial for a co-working session with your R friends until 7:30 pm!
- 
-## Past Events
-
 ### Data Visualization with {ggplot2}  
 *October 28, 2019*  
 *Location:* The Breezeway, 5:30-6:30  
