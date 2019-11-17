@@ -9,7 +9,6 @@ RBar is a weekly scientific programming study group where we tackle R issues in 
 > Do you have a suggestion for a future event? Would you like to host a tutorial, workshop, or demonstration? Are you willing to share a piece of code that you think might be useful to others, or a solution to a common problem? Let us know on our [facebook page](https://www.facebook.com/RBarMUN/)! Also follow us on Twitter [@RBarMUN](https://twitter.com/RBarMUN) and/or join our [Slack](https://rbar-mun.slack.com/signup) group!
 
 ## Upcoming Events
-**Notice:** We will not be meeting this coming Monday (November 11) in observance of Remembrance Day. Stay tuned for our upcoming session on Monday, November 18.  
 
 ### Co-Working Session - Special Event at Geeks Public House!   
 *November 18, 2019*  
