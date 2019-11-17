@@ -10,7 +10,7 @@ RBar is a weekly scientific programming study group where we tackle R issues in 
 
 ## Upcoming Events
 
-### Co-Working Session - Special Event at Geeks Public House!   
+### Co-Working Session - Special Event at [Geeks Public House](https://www.facebook.com/geekspublichouse/)!   
 *November 18, 2019*  
 *Location:* Geeks Public House (Upstairs), 290 Duckworth Street, 6:00 - 7:30  
 
