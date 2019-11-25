@@ -10,13 +10,21 @@ RBar is a weekly scientific programming study group where we tackle R issues in 
 
 ## Upcoming Events
 
+### Introduction to Linear Mixed Effect Models in R  
+*November 25, 2019*  
+*Location:* The Breezeway, 5:30 - 6:00  
+*Target Audience:* Intermediate  
+*Suggested Prerequisites:* Basic R / RStudio  
+
+Linear mixed models are an extension of simple linear models to allow both fixed and random effects, and are particularly used when there is non independence in the data, such as arises from a hierarchical structure. This is a technique commonly used in ecology and across disciplines, so take this fantastic opportunity to skill-up!  
+
+## Past Events  
+
 ### Co-Working Session - Special Event at [Geeks Public House](https://www.facebook.com/geekspublichouse/)!   
 *November 18, 2019*  
 *Location:* Geeks Public House (Upstairs), 290 Duckworth Street, 6:00 - 7:30  
 
 Work together in an informal setting at the Geeks Public House to solve problems, help others troubleshoot their scripts, and learn new coding tricks and techniques.  
-
-## Past Events  
 
 ### Introduction to Data Wrangling & Pipelines with {dplyr}  
 *November 4, 2019*  
