@@ -13,7 +13,7 @@ RBar is a weekly scientific programming study group where we tackle R issues in 
 ### Introduction to Linear Mixed Effect Models in R  
 *November 25, 2019*  
 *Location:* The Breezeway, 5:30 - 6:00  
-*Instructor:* Sara Sauve  
+*Instructor:* Sara Sauvé  
 *Target Audience:* Intermediate  
 *Suggested Prerequisites:* Basic R / RStudio  
 
