@@ -10,11 +10,15 @@ RBar is a weekly scientific programming study group where we tackle R issues in 
 
 ## Upcoming Events
 
+### Stay tuned for our 2020 events!  
+
+## Past Events  
+
 ### Code and Tell  
 *December 2, 2019*  
 *Location:* The Breezeway, 5:30 - 7:30  
 
-Next week at RBar we'll be having a special "Code and Tell" event to wrap up the semester! Attendees will have 1-5 minutes sharing one thing they find useful, interesting, or novel in R; this could be a piece of code you've written, an error message you've solved, a high impact figure you've created, or an online resource that you've stumbled across. This event is all about sharing the tips and tricks you find most useful, demonstrating the interesting things R can do, and learning from each other!  
+We'll be having a special "Code and Tell" event to wrap up the semester! Attendees will have 1-5 minutes sharing one thing they find useful, interesting, or novel in R; this could be a piece of code you've written, an error message you've solved, a high impact figure you've created, or an online resource that you've stumbled across. This event is all about sharing the tips and tricks you find most useful, demonstrating the interesting things R can do, and learning from each other!  
 
 ### Introduction to Linear Mixed Effect Models in R  
 *November 25, 2019*  
@@ -24,8 +28,6 @@ Next week at RBar we'll be having a special "Code and Tell" event to wrap up the
 *Suggested Prerequisites:* Basic R / RStudio  
 
 Linear mixed models are an extension of simple linear models to allow both fixed and random effects, and are particularly used when there is non independence in the data, such as arises from a hierarchical structure. This is a technique commonly used in ecology and across disciplines, so take this fantastic opportunity to skill-up! Tutorial materials can be found [here](https://github.com/sarahsauve/MUN_RBar_lme4Tutorial).   
-
-## Past Events  
 
 ### Co-Working Session - Special Event at [Geeks Public House](https://www.facebook.com/geekspublichouse/)!   
 *November 18, 2019*  
