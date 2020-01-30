@@ -10,13 +10,22 @@ RBar is a weekly scientific programming study group where we tackle R issues in 
 
 ## Upcoming Events
 
+### Co-Working Session  
+*February 3, 2020*  
+*Location:* The Breezeway, 5:30 - 6:30  
+
+Work together in an informal setting to solve problems, help others troubleshoot their scripts, and share your coding tricks and techniques. 
+
+
+## Past Events  
+
+
 ### Dealing with Dates and Times with {lubridate} 
 *January 13, 2020*  
 *Location:* The Breezeway, 5:30 - 6:30  
 
 Happy New Year! To start the decade off right, we'll be talking about how to best organize dates and times in spreadsheets and how to handle this information in R using {lubridate}. Dates and times are notoriously troublesome in data, but they don't need to be!  
 
-## Past Events  
 
 ### Code and Tell  
 *December 2, 2019*  
