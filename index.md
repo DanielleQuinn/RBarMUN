@@ -11,7 +11,7 @@ RBar is a weekly scientific programming study group where we tackle R issues in 
 ## Upcoming Events
 
 ### Co-Working Session  
-*February 3, 2020*  
+*February 10, 2020*  
 *Location:* The Breezeway, 5:30 - 6:30  
 
 Work together in an informal setting to solve problems, help others troubleshoot their scripts, and share your coding tricks and techniques. 
@@ -19,6 +19,11 @@ Work together in an informal setting to solve problems, help others troubleshoot
 
 ## Past Events  
 
+### Co-Working Session  
+*February 3, 2020*  
+*Location:* The Breezeway, 5:30 - 6:30  
+
+Work together in an informal setting to solve problems, help others troubleshoot their scripts, and share your coding tricks and techniques.  
 
 ### Dealing with Dates and Times with {lubridate} 
 *January 13, 2020*  
