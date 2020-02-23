@@ -21,7 +21,13 @@ Work together in an informal setting to solve problems, help others troubleshoot
 *Location:* The Breezeway, 5:30 - 6:30  
 *Instructor:* Danielle Quinn  
 
-An introduction to parametric and non parametric statistical tests in R, with a focus on A/B hypothesis testing and preparing your data for analysis. 
+An introduction to parametric and non parametric statistical tests in R, with a focus on A/B hypothesis testing and preparing your data for analysis.   
+
+### Co-Working Session  
+*March 2, 2020*  
+*Location:* The Breezeway, 6:30 - 7:30  
+
+Work together in an informal setting to solve problems, help others troubleshoot their scripts, and share your coding tricks and techniques.  
 
 ## Past Events  
 
