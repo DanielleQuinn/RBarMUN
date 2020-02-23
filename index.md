@@ -11,13 +11,25 @@ RBar is a weekly scientific programming study group where we tackle R issues in 
 ## Upcoming Events
 
 ### Co-Working Session  
+*February 24, 2020*  
+*Location:* The Breezeway, 5:30 - 6:30  
+
+Work together in an informal setting to solve problems, help others troubleshoot their scripts, and share your coding tricks and techniques.  
+
+### Basic Statistics in R  
+*March 2, 2020*  
+*Location:* The Breezeway, 5:30 - 6:30  
+*Instructor:* Danielle Quinn  
+
+An introduction to parametric and non parametric statistical tests in R, with a focus on A/B hypothesis testing and preparing your data for analysis. 
+
+## Past Events  
+
+### Co-Working Session  
 *February 10, 2020*  
 *Location:* The Breezeway, 5:30 - 6:30  
 
 Work together in an informal setting to solve problems, help others troubleshoot their scripts, and share your coding tricks and techniques. 
-
-
-## Past Events  
 
 ### Co-Working Session  
 *February 3, 2020*  
