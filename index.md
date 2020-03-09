@@ -16,6 +16,7 @@ RBar is a weekly scientific programming study group where we tackle R issues in 
 *Instructor:* Danielle Quinn  
 
 An introduction to parametric and non parametric statistical tests in R, with a focus on A/B hypothesis testing and preparing your data for analysis.   
+Materials found [here](https://github.com/DanielleQuinn/RBarMUN/tree/master/9March2020)  
 
 ### Co-Working Session  
 *March 2, 2020* **POSTPONED TO MARCH 9, 2020 DUE TO WEATHER**  
